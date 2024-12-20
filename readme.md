@@ -13,9 +13,11 @@ npm install
 ## Jalankan 
 `npm run dev` atau `node app.js`
 
+Setelah itu bisa akses http://127.0.0.1:3000/ melalui browser / postman / curl
+
 ## API Endpoint
 ### Daftar Siswa 
-Method GET : http://127.0.0.1/
+Method GET : http://127.0.0.1:3000/
 
 REQUEST
 ```
@@ -39,7 +41,7 @@ RESPONSE
 ---
 
 ### Tambah Siswa 
-Method POST : http://127.0.0.1/
+Method POST : http://127.0.0.1:3000/
 
 REQUEST
 ```
@@ -74,7 +76,7 @@ RESPONSE
 ---
 
 ### Edit Siswa
-Method PUT/PATCH : http://127.0.0.1/{dataSiswa.nim}
+Method PUT : http://127.0.0.1:3000/{dataSiswa.nim}
 
 REQUEST
 ```
@@ -109,7 +111,7 @@ RESPONSE
 ---
 
 ### Hapus Siswa
-Method DELETE : http://127.0.0.1/{dataSiswa.nim}
+Method DELETE : http://127.0.0.1:3000/{dataSiswa.nim}
 
 REQUEST 
 ```
