@@ -16,6 +16,12 @@ npm install
 Setelah itu bisa akses http://127.0.0.1:3000/ melalui browser / postman / curl
 
 ## API Endpoint
+### Postman Collection
+Import UKMIK.postman_collection.json ke Postman
+- Buka Postman
+- File -> Import
+- Pilih file ./UKMIK.postman_collection.json
+
 ### Daftar Siswa 
 Method GET : http://127.0.0.1:3000/
 
