@@ -1,5 +1,9 @@
 # STUDY CLUB - TUGAS REST API DENGAN EXPRESSJS
 
+- Rafli Yuwana Igas Arima
+- Noval Satria
+- Yogatama Purwa Landhika
+
 ## Instalasi
 Jalankan Command berikut di direktori project
 ```
