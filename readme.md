@@ -1,8 +1,8 @@
-# STUDY CLUB - TUGAS REST API DENGAN EXPRESSJS
+# :computer: STUDY CLUB - TUGAS REST API DENGAN EXPRESSJS
 
-- Rafli Yuwana Igas Arima
-- Noval Satria
-- Yogatama Purwa Landhika
+- :rocket: Rafli Yuwana Igas Arima
+- :rocket: Noval Satria
+- :rocket: Yogatama Purwa Landhika
 
 ## Instalasi
 Jalankan Command berikut di direktori project
